@@ -1,0 +1,9 @@
+{
+  "name": "vince-llanes-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio: static pages in public/ plus a PHP contact form in api/ (Vercel + vercel-php).",
+  "engines": {
+    "node": "22.x"
+  }
+}
